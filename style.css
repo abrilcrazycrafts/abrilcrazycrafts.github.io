@@ -43,6 +43,7 @@ body {
     border-radius: 10px;
     margin-bottom: 30px;
     display: block;
+    aspect-ratio: 1 / 1.01;
 }
 
 .links {
