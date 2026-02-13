@@ -27,7 +27,7 @@ body {
 
 .handle {
     font-weight: 700;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     letter-spacing: 0.5px;
     margin-bottom: 15px;
     background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
@@ -38,7 +38,7 @@ body {
 
 .logo {
     width: 100%;
-    max-width: 400px;
+    max-width: 320px;
     aspect-ratio: 1 / 1.01;
     object-fit: cover;
     border-radius: 10px;
